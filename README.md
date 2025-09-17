@@ -62,7 +62,3 @@ Dataset Analysis (Book Reviews)
 * [Kaggle – EDA on Text Data](https://www.kaggle.com/code/alincijov/nlp-time-machine-novel-eda)
 * [Analytics Vidhya – Guide to EDA on Text](https://www.analyticsvidhya.com/blog/2020/04/beginners-guide-exploratory-data-analysis-text-data/)
 * [Regenerative Today – Text Data EDA](https://regenerativetoday.com/exploratory-data-analysis-of-text-data-including-visualization-and-sentiment-analysis/)
-
-
-
-👉 Do you also want me to create a **`requirements.txt`** file for easy setup so your GitHub repo is complete and runnable?
